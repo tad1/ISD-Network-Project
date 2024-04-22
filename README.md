@@ -1,7 +1,7 @@
 # Resources for Imperial-Class Star Destroyer Network Project
 for Corporate Network a CS Course\
-coauthored with [@lukgla](github.com/lukgla) and [@Roagen7](https://github.com/Roagen7/)\
-physical topology created by [@lukgla](github.com/lukgla)
+coauthored with [@lukgla](https://github.com/lukgla) and [@Roagen7](https://github.com/Roagen7/)\
+physical topology created by [@lukgla](https://github.com/lukgla)
 
 #### links:
 [spreadsheet](https://docs.google.com/spreadsheets/d/1e7jWeYcorjkDFNFNSrMwYawOL_GBvVlroHnkW7TGr5M/edit)\
